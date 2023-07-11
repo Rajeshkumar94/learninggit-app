@@ -1,0 +1,19 @@
+</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/spring-jcl-6.0.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-6.0.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jms-6.0.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-messaging-6.0.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-orm-6.0.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-oxm-6.0.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-retry-1.0.0.RC1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-struts-3.2.18.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-test-6.0.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-6.0.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-6.0.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webflow-2.0-m3-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webflux-6.0.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-6.0.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-portlet-4.3.30.RELEASE-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
